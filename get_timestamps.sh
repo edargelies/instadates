@@ -1,5 +1,8 @@
 #!/bin/bash
 
+#Clear the output file
+echo > output.txt
+
 file=$1
 while IFS= read -r line
 do

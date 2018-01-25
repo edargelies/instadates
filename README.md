@@ -1,7 +1,7 @@
 # instadates
 Gets the dates from a file of instagram links.
 
-##Required Software
+## Required Software
 This is to be run in the Mac OS X terminal
 
 The 'jq' json parser is also required. It can be installed via homebrew:
